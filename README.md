@@ -1,5 +1,8 @@
 ALUMNO MARCOS JAVIER PAREDES GUAMAN
+
 PRIMER SEMESTRE 
+
+
 def calcular_precio_total(precio_por_persona, cantidad_personas, descuento):
     """
     Calcula el precio total de un paquete turístico.
